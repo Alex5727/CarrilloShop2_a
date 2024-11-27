@@ -1,0 +1,101 @@
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.csproj.AssemblyReference.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.AssemblyInfoInputs.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.AssemblyInfo.cs
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.csproj.CoreCompileInputs.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\appsettings.json
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.exe
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.deps.json
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.runtimeconfig.json
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.runtimeconfig.dev.json
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.pdb
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.RazorTargetAssemblyInfo.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\scopedcss\bundle\CarrilloShop2.styles.css
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\CarrilloShop2.StaticWebAssets.Manifest.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\CarrilloShop2.StaticWebAssets.Pack.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\msbuild.CarrilloShop2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\msbuild.build.CarrilloShop2.props
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CarrilloShop2.props
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CarrilloShop2.props
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\Carrillo.C672B482.Up2Date
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\refint\CarrilloShop2.dll
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.pdb
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.genruntimeconfig.cache
+C:\Users\Norberto Carrillo\source\repos\CarrilloShop2\CarrilloShop2\obj\Debug\net5.0\ref\CarrilloShop2.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\appsettings.json
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.exe
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.deps.json
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.runtimeconfig.json
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.runtimeconfig.dev.json
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\CarrilloShop2.pdb
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.csproj.AssemblyReference.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.AssemblyInfoInputs.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.AssemblyInfo.cs
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\scopedcss\bundle\CarrilloShop2.styles.css
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\CarrilloShop2.StaticWebAssets.Manifest.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.RazorTargetAssemblyInfo.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.csproj.CopyComplete
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.dll
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.pdb
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\CarrilloShop2.genruntimeconfig.cache
+C:\Users\cisco01\Source\Repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\ref\CarrilloShop2.dll
+C:\Users\cisco01\source\repos\Carrilloshop2\CarrilloShop2\bin\Debug\net5.0\ref\CarrilloShop2.dll
+C:\Users\cisco01\source\repos\Carrilloshop2\CarrilloShop2\obj\Debug\net5.0\staticwebassets\CarrilloShop2.StaticWebAssets.xml
