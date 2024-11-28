@@ -28,8 +28,18 @@ namespace CarrilloShop2.Data.Services
                 CliCelular = cliente.CliCelular,
                 CliDir = cliente.CliDir,
                 CliFechReg = DateTime.Now,
+                
             };
             _context.Clientes.Add(_cliente);
+            _context.SaveChanges();
+
+            var _carrito = new Carrito()
+            {
+                CliCorreo = _cliente.CliCorreo,
+            };
+
+            _context.Carritos.Add(_carrito);
+
             _context.SaveChanges();
         }
 

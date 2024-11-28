@@ -12,5 +12,7 @@ namespace CarrilloShop2.Data.Models
         public string CliDir { get; set; }
         public DateTime CliFechReg { get; set; }
         public int CliAntiguedad { get; set; } // Propiedad calculada
+
+        public Carrito Carrito { get; set; }
     }
 }

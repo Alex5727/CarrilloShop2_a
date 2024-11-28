@@ -21,9 +21,15 @@ namespace CarrilloShop2.Data
 
             modelBuilder.Entity<Producto>()
               .HasKey(c => c.ID);
+
+            modelBuilder.Entity<Cliente>()
+           .HasOne(c => c.Carrito) 
+           .WithOne(c => c.Cliente) 
+           .HasForeignKey<Carrito>(c => c.CliCorreo);
         }
 
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Producto> Productos { get; set; }
+        public DbSet<Carrito> Carritos { get; set; }
     }
 }

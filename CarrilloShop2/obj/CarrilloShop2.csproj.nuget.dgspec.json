@@ -11,7 +11,7 @@
         "projectName": "CarrilloShop2",
         "projectPath": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Source\\Repos\\CarrilloShop2_a\\CarrilloShop2\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
