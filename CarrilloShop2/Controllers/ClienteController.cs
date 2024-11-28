@@ -1,12 +1,11 @@
-﻿using CarrilloShop2.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System;
-using CarrilloShop2.Services;
-using CarrilloShop2.ViewModel;
+using CarrilloShop2.Data.ViewModel;
+using CarrilloShop2.Data.Services;
 
 namespace CarrilloShop2.Controllers
 {
@@ -16,8 +15,6 @@ namespace CarrilloShop2.Controllers
     public class ClienteController : ControllerBase
     {
       
-
-
         public ClienteService _clienteservice;
 
         public ClienteController(ClienteService clienteservice)
@@ -27,18 +24,26 @@ namespace CarrilloShop2.Controllers
 
 
         [HttpGet("get-all-Clientes")]
-        public IActionResult GetAllBooks()
+        public IActionResult GetAllClt()
         {
             var allbooks = _clienteservice.GetAllClt();
             return Ok(allbooks);
         }
 
         [HttpPost("add-Cliente")]
-        public IActionResult AddBook([FromBody] ClienteVM cliente)
+        public IActionResult AddCliente([FromBody] ClienteVM cliente)
         {
             _clienteservice.AddCliente(cliente);
             return Ok();
         }
+
+
+
+
+
+
+
+
 
 
     }

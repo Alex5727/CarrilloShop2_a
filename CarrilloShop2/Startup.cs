@@ -2,7 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CarrilloShop2.Services;
+using CarrilloShop2.Data;
+using CarrilloShop2.Data.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -35,6 +36,7 @@ namespace CarrilloShop2
             services.AddControllers();
             services.AddDbContext<AppDBcontext>(options => options.UseSqlServer(ConnectionString));
             services.AddTransient<ClienteService>();
+            services.AddTransient<ProductoService>();
 
             services.AddSwaggerGen(c =>
             {

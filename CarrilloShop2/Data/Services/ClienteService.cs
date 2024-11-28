@@ -1,12 +1,12 @@
-﻿using CarrilloShop2.Models;
-using CarrilloShop2.ViewModel;
+﻿using CarrilloShop2.Data.Models;
+using CarrilloShop2.Data.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using static System.Reflection.Metadata.BlobBuilder;
 
-namespace CarrilloShop2.Services
+namespace CarrilloShop2.Data.Services
 {
     public class ClienteService
     {

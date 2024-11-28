@@ -1,8 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace CarrilloShop2.Models
+namespace CarrilloShop2.Data.ViewModel
 {
-    public class Cliente
+    public class ClienteVM
     {
         public string CliCorreo { get; set; }
         public string CliNombre { get; set; }
@@ -11,6 +14,5 @@ namespace CarrilloShop2.Models
         public string CliCelular { get; set; }
         public string CliDir { get; set; }
         public DateTime CliFechReg { get; set; }
-        public int CliAntiguedad { get; set; } // Propiedad calculada
     }
 }

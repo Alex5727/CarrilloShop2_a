@@ -1,13 +1,13 @@
-﻿using CarrilloShop2.Models;
+﻿using CarrilloShop2.Data.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CarrilloShop2
+namespace CarrilloShop2.Data
 {
-    public class AppDBcontext: DbContext
+    public class AppDBcontext : DbContext
     {
         public AppDBcontext(DbContextOptions<AppDBcontext> options) : base(options)
         {
@@ -18,8 +18,12 @@ namespace CarrilloShop2
         {
             modelBuilder.Entity<Cliente>()
                 .HasKey(c => c.CliCorreo); // Clave primaria
+
+            modelBuilder.Entity<Producto>()
+              .HasKey(c => c.ID);
         }
 
         public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Producto> Productos { get; set; }
     }
 }

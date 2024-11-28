@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Source\\Repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Source\\Repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj": {
+    "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Source\\Repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj",
         "projectName": "CarrilloShop2",
-        "projectPath": "C:\\Users\\pc\\Source\\Repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\CarrilloShop2.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pc\\Source\\Repos\\CarrilloShop2_a\\CarrilloShop2\\obj\\",
         "projectStyle": "PackageReference",
