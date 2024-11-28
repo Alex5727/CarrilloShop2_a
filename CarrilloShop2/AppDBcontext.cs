@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CarrilloShop2.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,12 @@ namespace CarrilloShop2
 
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Cliente>()
+                .HasKey(c => c.CliCorreo); // Clave primaria
+        }
 
+        public DbSet<Cliente> Clientes { get; set; }
     }
 }

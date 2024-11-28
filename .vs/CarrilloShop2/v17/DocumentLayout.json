@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\migrations\\20241128001541_migracionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\migrations\\20241128001541_migracionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\viewmodel\\clientevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\viewmodel\\clientevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|c:\\users\\pc\\source\\repos\\carrilloshop2_a\\carrilloshop2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A0F298-D148-4B72-B759-A180B249B24C}|CarrilloShop2\\CarrilloShop2.csproj|solutionrelative:carrilloshop2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241128001541_MigracionClientes.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Migrations\\20241128001541_MigracionClientes.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\Migrations\\20241128001541_MigracionClientes.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Migrations\\20241128001541_MigracionClientes.cs",
+              "RelativeToolTip": "CarrilloShop2\\Migrations\\20241128001541_MigracionClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:15:53.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "CarrilloShop2\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:20:22.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Services\\ClienteService.cs",
+              "RelativeToolTip": "CarrilloShop2\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:22:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\AppDBcontext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\AppDBcontext.cs",
+              "RelativeToolTip": "CarrilloShop2\\AppDBcontext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:54:33.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\ViewModel\\ClienteVM.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\ViewModel\\ClienteVM.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\ViewModel\\ClienteVM.cs",
+              "RelativeToolTip": "CarrilloShop2\\ViewModel\\ClienteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:52:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Models\\Cliente.cs",
+              "RelativeToolTip": "CarrilloShop2\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:36:56.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\AppDbInitializer.cs",
+              "RelativeToolTip": "CarrilloShop2\\AppDbInitializer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:35:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Startup.cs",
+              "RelativeDocumentMoniker": "CarrilloShop2\\Startup.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CarrilloShop2_a\\CarrilloShop2\\Startup.cs",
+              "RelativeToolTip": "CarrilloShop2\\Startup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:53:57.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
