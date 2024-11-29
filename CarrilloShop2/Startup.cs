@@ -37,6 +37,7 @@ namespace CarrilloShop2
             services.AddDbContext<AppDBcontext>(options => options.UseSqlServer(ConnectionString));
             services.AddTransient<ClienteService>();
             services.AddTransient<ProductoService>();
+            services.AddTransient<CarritoServicio>();
 
             services.AddSwaggerGen(c =>
             {

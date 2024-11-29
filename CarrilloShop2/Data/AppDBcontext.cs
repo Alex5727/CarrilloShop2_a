@@ -17,15 +17,30 @@ namespace CarrilloShop2.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Cliente>()
-                .HasKey(c => c.CliCorreo); // Clave primaria
-
-            modelBuilder.Entity<Producto>()
-              .HasKey(c => c.ID);
+        .HasKey(c => c.CliID); 
 
             modelBuilder.Entity<Cliente>()
-           .HasOne(c => c.Carrito) 
-           .WithOne(c => c.Cliente) 
-           .HasForeignKey<Carrito>(c => c.CliCorreo);
+                .Property(c => c.CliID)
+                .ValueGeneratedOnAdd(); 
+
+            modelBuilder.Entity<Producto>()
+                .HasKey(p => p.ID); 
+
+            modelBuilder.Entity<Producto>()
+                .Property(p => p.ID)
+                .ValueGeneratedOnAdd(); 
+
+            modelBuilder.Entity<Carrito>()
+                .HasKey(c => c.CarritoID); 
+
+            modelBuilder.Entity<Carrito>()
+                .Property(c => c.CarritoID)
+                .ValueGeneratedOnAdd(); 
+
+            modelBuilder.Entity<Cliente>()
+                .HasOne(c => c.Carrito) 
+                .WithOne(c => c.Cliente)
+                .HasForeignKey<Carrito>(c => c.CliID); 
         }
 
         public DbSet<Cliente> Clientes { get; set; }

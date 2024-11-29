@@ -19,7 +19,6 @@ namespace CarrilloShop2.Data.Services
         {
             var _producto = new Producto()
             {
-                ID = producto.ID,
                 Nombre = producto.Nombre,
                 Descripccion = producto.Descripccion,
                 Precio = producto.Precio,

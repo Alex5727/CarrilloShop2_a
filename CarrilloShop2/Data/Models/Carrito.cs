@@ -2,10 +2,9 @@
 {
     public class Carrito
     {
-        public string CarritoID { get; set; }
+        public int CarritoID { get; set; }
 
-
-        public string CliCorreo { get; set; }
+        public int CliID { get; set; }
         public Cliente Cliente { get; set; } 
     }
 }

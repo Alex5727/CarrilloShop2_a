@@ -21,10 +21,9 @@ namespace CarrilloShop2.Data.Services
         {
             var _cliente = new Cliente()
             {
-                CliCorreo = cliente.CliCorreo,
                 CliNombre = cliente.CliNombre,
-                CliApellidos = cliente.CliApellidos,
-                CliTelefono = cliente.CliTelefono,
+                CliEmail = cliente.CliEmail,
+                CliPassword = cliente.CliPassword,
                 CliCelular = cliente.CliCelular,
                 CliDir = cliente.CliDir,
                 CliFechReg = DateTime.Now,
@@ -35,7 +34,7 @@ namespace CarrilloShop2.Data.Services
 
             var _carrito = new Carrito()
             {
-                CliCorreo = _cliente.CliCorreo,
+                CliID = _cliente.CliID,
             };
 
             _context.Carritos.Add(_carrito);

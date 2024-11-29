@@ -2,7 +2,6 @@
 {
     public class ProductoVM
     {
-        public string ID { get; set; }
         public string Nombre { get; set; }
         public string Descripccion { get; set; }
         public int Precio { get; set; }

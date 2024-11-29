@@ -4,14 +4,16 @@ using CarrilloShop2.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CarrilloShop2.Migrations
 {
     [DbContext(typeof(AppDBcontext))]
-    partial class AppDBcontextModelSnapshot : ModelSnapshot
+    [Migration("20241129042257_Reisetodooooxd")]
+    partial class Reisetodooooxd
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,28 +23,25 @@ namespace CarrilloShop2.Migrations
 
             modelBuilder.Entity("CarrilloShop2.Data.Models.Carrito", b =>
                 {
-                    b.Property<int>("CarritoID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.Property<string>("CarritoID")
+                        .HasColumnType("nvarchar(450)");
 
-                    b.Property<int>("CliID")
-                        .HasColumnType("int");
+                    b.Property<string>("CliID")
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("CarritoID");
 
                     b.HasIndex("CliID")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[CliID] IS NOT NULL");
 
                     b.ToTable("Carritos");
                 });
 
             modelBuilder.Entity("CarrilloShop2.Data.Models.Cliente", b =>
                 {
-                    b.Property<int>("CliID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.Property<string>("CliID")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("CliCelular")
                         .HasColumnType("nvarchar(max)");
@@ -69,10 +68,8 @@ namespace CarrilloShop2.Migrations
 
             modelBuilder.Entity("CarrilloShop2.Data.Models.Producto", b =>
                 {
-                    b.Property<int>("ID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+                    b.Property<string>("ID")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Descripccion")
                         .HasColumnType("nvarchar(max)");
@@ -95,9 +92,7 @@ namespace CarrilloShop2.Migrations
                 {
                     b.HasOne("CarrilloShop2.Data.Models.Cliente", "Cliente")
                         .WithOne("Carrito")
-                        .HasForeignKey("CarrilloShop2.Data.Models.Carrito", "CliID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CarrilloShop2.Data.Models.Carrito", "CliID");
 
                     b.Navigation("Cliente");
                 });

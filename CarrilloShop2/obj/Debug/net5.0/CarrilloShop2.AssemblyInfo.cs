@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarrilloShop2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c032287423670edbb9d4fd4099c78874d66a7a9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e74201ba87b2c97ebdbad66c73bde8c8f2148c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarrilloShop2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarrilloShop2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
